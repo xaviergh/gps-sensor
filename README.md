@@ -18,19 +18,17 @@ The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.
  - [Adafruit ADXL245](https://learn.adafruit.com/adxl345-digital-accelerometer/overview)
  - [TinyGPS+](https://github.com/mikalhart/TinyGPSPlus)
  - [Arduino Log](https://github.com/thijse/Arduino-Log)
- - Time Lib
+ - [Time](https://github.com/PaulStoffregen/Time)
 
 ## Firmware
-The sample Arduino code uses firmware from the  [Adafruit M0](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
+The sample Arduino code use the bootloader from the  [Adafruit M0](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
 
 ## TODO
-
-
-
+Hardware
+ - Improve GPS 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUwNDU4ODIsLTE5NTU5NTM1NTFdfQ
-==
+eyJoaXN0b3J5IjpbODk2NzYwNzQsLTE5NTU5NTM1NTFdfQ==
 -->
