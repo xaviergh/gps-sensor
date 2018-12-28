@@ -1,6 +1,6 @@
 # gps-sensor
 
-Small geolocated sensing datalogger board for movement sensing
+Small geolocated sensing datalogger board for movement sensing.
 
 The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) and the insights from [PaulZC](https://github.com/PaulZC).
 
@@ -19,6 +19,7 @@ The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.
  - [TinyGPS+](https://github.com/mikalhart/TinyGPSPlus)
  - [Arduino Log](https://github.com/thijse/Arduino-Log)
  - [Time](https://github.com/PaulStoffregen/Time)
+ - Arduino Sound
 
 ## Firmware
 The sample Arduino code use the bootloader from the  [Adafruit M0](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
@@ -33,5 +34,5 @@ Software
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMzMzEyNywtMTk1NTk1MzU1MV19
+eyJoaXN0b3J5IjpbNjgyODkxMjA1LC0xOTU1OTUzNTUxXX0=
 -->
