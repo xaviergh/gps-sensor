@@ -4,8 +4,7 @@ Small geolocated sensing datalogger board.
 
 The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) and the insights from [PaulZC](https://github.com/PaulZC).
 
-The board contains the following hardware:
-MCU: ATSAMD21G18
+## Hardware:MCU: ATSAMD21G18
 GPS: uBlox SAM-M8Q
 Acc: ADXL345
 Microphone Connections:
@@ -17,5 +16,5 @@ Microphone Connections:
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5ODc2MTc4XX0=
+eyJoaXN0b3J5IjpbMTg3NTU2MzE5MF19
 -->
