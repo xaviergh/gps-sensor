@@ -7,12 +7,16 @@ The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.
 ## Main Hardware:
 
  - MCU: ATSAMD21G18 
- - GPS: uBlox SAM-M8Q Acc: ADXL345
-
-Microphone Connections:
+ - GPS: uBlox SAM-M8Q 
+ - Acc: ADXL345
+ - Microphone Connections:
 [Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H](https://www.adafruit.com/product/3421)
 [Adafruit Silicon MEMS Microphone Breakout - SPW2430](https://www.adafruit.com/product/2716)
 
+## Libraries
+
+ - [Adafruit
+  ADXL245](https://learn.adafruit.com/adxl345-digital-accelerometer/overview)
 
 ## Firmware
 The sample Arduino code uses firmware from the  [Adafruit M0](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
@@ -25,5 +29,6 @@ The sample Arduino code uses firmware from the  [Adafruit M0](https://learn.adaf
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNDY4OTI3LC0xOTU1OTUzNTUxXX0=
+eyJoaXN0b3J5IjpbLTExNDUwOTQ0MzMsLTE5NTU5NTM1NTFdfQ
+==
 -->
