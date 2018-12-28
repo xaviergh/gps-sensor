@@ -25,10 +25,13 @@ The sample Arduino code use the bootloader from the  [Adafruit M0](https://learn
 
 ## TODO
 Hardware
- - Improve GPS 
+ - Improve GPS fix time
+Software
+ - List item
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzYwNzQsLTE5NTU5NTM1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc3NzI3MzEsLTE5NTU5NTM1NTFdfQ
+==
 -->
