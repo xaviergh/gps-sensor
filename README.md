@@ -19,7 +19,7 @@ The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.
  - [TinyGPS+](https://github.com/mikalhart/TinyGPSPlus)
  - [Arduino Log](https://github.com/thijse/Arduino-Log)
  - [Time](https://github.com/PaulStoffregen/Time)
- - Arduino Sound
+ - [Arduino Sound](https://github.com/arduino-libraries/ArduinoSound)
 
 ## Firmware
 The sample Arduino code use the bootloader from the  [Adafruit M0](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
@@ -27,12 +27,14 @@ The sample Arduino code use the bootloader from the  [Adafruit M0](https://learn
 ## TODO
 Hardware
  - Improve GPS fix time
+
 Software
  - Improve Microphone reading accuracy
- - Dual Microphone noise cancelling
+ - Dual microphone noise cancelling
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyODkxMjA1LC0xOTU1OTUzNTUxXX0=
+eyJoaXN0b3J5IjpbLTEwNjQ0NzYzNzgsLTE5NTU5NTM1NTFdfQ
+==
 -->
