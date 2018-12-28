@@ -13,12 +13,15 @@ Microphone Connections:
 [Adafruit Silicon MEMS Microphone Breakout - SPW2430](https://www.adafruit.com/product/2716)
 
 ## Firmware
-The board uses the Adafruit Bootloader
+The sample Arduino code uses firmware  [Adafruit M0 Bootloader](https://learn.adafruit.com/compiling-m0-atsamd21-bootloader/compile)
+
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU5NTM1NTFdfQ==
+eyJoaXN0b3J5IjpbLTExNDc2MTc3MDcsLTE5NTU5NTM1NTFdfQ
+==
 -->
