@@ -14,9 +14,7 @@ The design is based on the [Adafruit Feather M0 Adalogger](https://www.adafruit.
 [Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H](https://www.adafruit.com/product/3421)
 [Adafruit Silicon MEMS Microphone Breakout - SPW2430](https://www.adafruit.com/product/2716)
 
-![GPS Sensor PCB](
-        gps-sensor/Hardware/Img/gps_sensor.png
-      )
+![GPS Sensor PCB](https://github.com/xaviergh/gps-sensor/raw/master/Hardware/Img/gps_sensor.png)
 
 ## Libraries
 
@@ -40,6 +38,6 @@ Software
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjcwMDc3LC0xNDgxMjY0NDU5LC0xMD
-Y0NDc2Mzc4LC0xOTU1OTUzNTUxXX0=
+eyJoaXN0b3J5IjpbLTE0MDMwNTUxNzYsLTE0ODEyNjQ0NTksLT
+EwNjQ0NzYzNzgsLTE5NTU5NTM1NTFdfQ==
 -->
